@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/2132c635-a29d-4f9a-b22c-39c359dfcd98)" width="50%" />
+<img src="https://github.com/user-attachments/assets/ce3c9076-598a-46f5-bda0-0775c2fcc50b" width="50%" />
 
 
 ## 👩‍💻 Project Contributors
