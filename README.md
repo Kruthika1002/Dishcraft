@@ -86,7 +86,7 @@ eggs,butter,salt;Scrambled Eggs;Beat eggs, heat butter, stir until cooked
 
 ## 📸 Screenshots
 
-> *(You can add screenshots of the GUI here once available.)*
+<img src="![Image](https://github.com/user-attachments/assets/2132c635-a29d-4f9a-b22c-39c359dfcd98)">
 
 ---
 
