@@ -3,7 +3,11 @@
 
 **DishCraft** is a Java-based desktop application that helps users discover recipes based on available ingredients. It reduces food wastage and improves cooking efficiency by providing smart suggestions from a locally stored recipe database.
 
----
+
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/2132c635-a29d-4f9a-b22c-39c359dfcd98)" width="50%" />
+
 
 ## 👩‍💻 Project Contributors
 - K. Aasrika (1RVU23CSE203)
@@ -84,12 +88,6 @@ eggs,butter,salt;Scrambled Eggs;Beat eggs, heat butter, stir until cooked
 
 ---
 
-## 📸 Screenshots
-
-<div style="display: flex; justify-content: space-between;">
-<img src="https://github.com/user-attachments/assets/2132c635-a29d-4f9a-b22c-39c359dfcd98)" width="50%" />
-</div>
----
 
 ## 📜 License
 
