@@ -86,8 +86,9 @@ eggs,butter,salt;Scrambled Eggs;Beat eggs, heat butter, stir until cooked
 
 ## 📸 Screenshots
 
+<div style="display: flex; justify-content: space-between;">
 <img src="https://github.com/user-attachments/assets/2132c635-a29d-4f9a-b22c-39c359dfcd98)" width="50%" />
-
+</div>
 ---
 
 ## 📜 License
